@@ -1,1 +1,1 @@
-0 0 * * * ~/porjects/imsoproductive/random-commit.sh
+0 0 * * * ~/projects/imsoproductive/schedule-commits.sh
