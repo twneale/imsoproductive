@@ -1,5 +1,5 @@
 #!/bin/bash
-for number in $(seq 30)
+for number in $(seq 5)
 do
     hour=$(( ${RANDOM}*24/32768 ))
     minute=$(( ${RANDOM}*60/32768 ))
